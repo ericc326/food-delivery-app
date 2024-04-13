@@ -1,1 +1,3 @@
-simple todoapp using flutter framework
+frontend: react
+backend: nodejs, express
+database: mongodb
